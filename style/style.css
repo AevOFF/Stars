@@ -1,0 +1,55 @@
+.btn{
+    background-color: gold;
+    display: inline-block;
+    padding: 10px 15px;
+    color:#fff;
+    cursor: pointer;
+    transition: 0.35s;
+}
+.btn:hover{
+    background-color: grey;
+}
+.btn-two{
+    background-color: gold;
+    display: inline-block;
+    padding: 10px 15px;
+    color:#fff;
+    cursor: pointer;
+    transition: 0.35s;
+}
+.btn-two:hover{
+    background-color: grey;
+}
+.btn-three{
+    background-color: gold;
+    display: inline-block;
+    padding: 10px 15px;
+    color:#fff;
+    cursor: pointer;
+    transition: 0.35s;
+}
+.btn-three:hover{
+    background-color: grey;
+}
+.btn-four{
+    background-color: gold;
+    display: inline-block;
+    padding: 10px 15px;
+    color:#fff;
+    cursor: pointer;
+    transition: 0.35s;
+}
+.btn-four:hover{
+    background-color: grey;
+}
+.btn-five{
+    background-color: gold;
+    display: inline-block;
+    padding: 10px 15px;
+    color:#fff;
+    cursor: pointer;
+    transition: 0.35s;
+}
+.btn-five:hover{
+    background-color: grey;
+}

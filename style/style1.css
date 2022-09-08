@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.star_rating{
+    user-select: none;
+}
+.star{
+    font-size: 3rem;
+    color: gold;
+    background-color: unset;
+    border:none;
+}
+.star:hover{
+    cursor:pointer;
+    transition: 0.35s;
+    color:grey;
+}
